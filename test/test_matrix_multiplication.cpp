@@ -3,7 +3,7 @@
 #include <vector>
 #include <gtest/gtest.h>
 
-// ######################### Source code of multiplyMatrices in src/matrix_mult
+// ######################### Source code of multiplyMatrices in src/matrix_multiplication
 
 
 TEST(MatrixMultiplicationTest, TestMultiplyMatrices) {
